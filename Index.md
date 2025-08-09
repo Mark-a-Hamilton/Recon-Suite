@@ -5,22 +5,22 @@ Hovever to Access the code and technical documentation contact the repository ow
 
 ## 📂 Documentation Modules
 
-- [Overview](docs/Overview.md)  
+- [Overview](Docs/Overview.md)  
   High-level summary of architecture, modularity, and auditability.
 
-- [Control Script](docs/Control_Script.md)  
+- [Control Script](Docs/Control_Script.md)  
   Wrapper logic for orchestrating module execution and logging.
 
-- [Home](docs/Home.md)  
+- [Home](Docs/Home.md)  
   Introduction to Recon-Suite’s goals, philosophy, and onboarding.
 
-- [Passive Recon](docs/Passive.md)  
+- [Passive Recon](Docs/Passive.md)  
   Techniques for stealthy, low-footprint intelligence gathering.
 
-- [Active Recon](docs/Active.md)  
+- [Active Recon](Docs/Active.md)  
   Tools and workflows for active enumeration and analysis.
 
-- [Reporting](docs/Reporting.md)  
+- [Reporting](Docs/Reporting.md)  
   Dual-format reporting, traceability, and client-facing summaries.
 
 ---
