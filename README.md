@@ -57,4 +57,4 @@ It’s not about fear—it’s about empowerment.
 
 ## 📄 License
 
-MIT License
+[MIT License](LICENSE)
