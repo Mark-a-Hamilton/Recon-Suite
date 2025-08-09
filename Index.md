@@ -23,8 +23,11 @@ Hovever to Access the code and technical documentation contact the repository ow
 - [Reporting](Docs/Reporting.md)  
   Dual-format reporting, traceability, and client-facing summaries.
 
+- [.hashmap](Docs/.hashmap.md)
+Hashmap Format, purpose, and generation of .hashmap entries for audit-grade traceability.
+
 ---
 
 For technical setup, usage examples, and contribution guidelines, see the [README.md](README.md).  
-To track progress or suggest improvements, visit the [Recon-Suite Project Board](https://github.com/users/markhamiltonSH/projects/1).
+To track progress or suggest improvements, visit the [Recon-Suite Project Board](https://github.com/users/Mark-a-Hamilton/projects/1).
 
